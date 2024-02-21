@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omaralhariri
-- 👀 I am experienced in PHP, Laravel.
+- 👀 I am experienced in PHP, Laravel, NestzJS, and React.
 - 🌱 I’m currently learning Rust and Go.
 <!---
 omaralhariri/omaralhariri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
