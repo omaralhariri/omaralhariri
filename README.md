@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar Alhariri, software engineer
-- I am experienced in PHP, Laravel, NestJS.
+- I am experienced in PHP, Laravel, JS, and NestJS.
 - My main interest is backend and solving business challenges.
 - I believe that learning is a life-long journey and currently learning a bit of Rust and Go.
 <!---
